@@ -1,7 +1,6 @@
 # Hola mundo en Atari
 
 
-
 ## Mostrando cadenas de caracteres en pantalla
 
 Este archivo presenta en pantalla el mensaje "HOLA MUNDO!" desde la primera posición de la pantalla.
